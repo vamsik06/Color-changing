@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 20px;
+}
+button:hover{
+    background-color: brown;
+    color: white ;
+}
